@@ -1,0 +1,3 @@
+1. In javascript variables declared as let or var are reassignable so though bad practice to write a method like that it'll parse.
+
+2. By introducing the "use strict"; expression in the function.
